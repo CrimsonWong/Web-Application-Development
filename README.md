@@ -8,3 +8,6 @@ This online application is able to manage 3 business, including managing custome
 ## Technologies used
 Use Eclipse with Spring MVC, Hibernate, and DAO pattern as required. Besides, use Annotation and Maven function to connect the local database.
 The POJO contains classes of user, question and answer. User includes username, password, set of questions and answers the user post. Question includes the question itself, the user who post it and set of answer of it. Answer includes answer, the user who post it and likes it gained. 
+
+## Further Improvement
+This application is a primitive application with using only HTML, JSTL and EL for UI design. In the furture, I am going to upload some new design like using CSS and JavaScript to improve the UI. 
